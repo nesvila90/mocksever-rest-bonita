@@ -1,21 +1,21 @@
 {
    "listaParametrica":[
-   {
-      "nameKeyList":"",
-      "lists":[
-         {
-            "key":"llave1",
-            "value":"valor1"
-         },
-         {
-            "key":"llave2",
-            "value":"valor2"
-         },
-         {
-            "key":"llave3",
-            "value":"valor3"
-         }
-      ]
-   }
-]
+      {
+         "nameKeyList":"",
+         "lists":[
+            {
+               "key":"llave1",
+               "value":"valor1"
+            },
+            {
+               "key":"llave2",
+               "value":"valor2"
+            },
+            {
+               "key":"llave3",
+               "value":"valor3"
+            }
+         ]
+      }
+   ]
 }
