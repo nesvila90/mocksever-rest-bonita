@@ -1,4 +1,5 @@
-[
+{
+   "listaParametrica":[
    {
       "nameKeyList":"",
       "lists":[
@@ -17,3 +18,4 @@
       ]
    }
 ]
+}
